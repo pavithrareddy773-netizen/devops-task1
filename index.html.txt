@@ -5,5 +5,6 @@
 </head>
 <body>
   <h1>CI/CD Pipeline Working 🚀</h1>
+  <p>Trigger pipeline</p> 
 </body>
 </html>
