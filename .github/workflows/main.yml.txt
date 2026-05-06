@@ -16,4 +16,4 @@ jobs:
         run: echo "Build successful"
 
       - name: Deploy
-        run: echo "Deployment successful"ss
+        run: echo "Deployment successful"
